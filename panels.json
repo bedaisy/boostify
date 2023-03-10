@@ -1,3 +1,4 @@
 {
-    "panels": ["walle"]
+    "panels": ["walle"],
+    "version": 1
 }
